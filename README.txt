@@ -1,4 +1,4 @@
-Git and GitHub
+Points to remember: Git and GitHub
 
 1. Git is a version Control system.
 2. It tracks every changes.
