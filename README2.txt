@@ -1,0 +1,3 @@
+Once upon a time...
+there lived ghost
+He was a killer.

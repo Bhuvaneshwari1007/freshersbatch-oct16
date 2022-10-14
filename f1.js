@@ -1,0 +1,3 @@
+Hope
+Hoping
+Hoped
